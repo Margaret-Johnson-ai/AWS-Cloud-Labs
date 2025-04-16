@@ -119,7 +119,7 @@ This lab was created using Free Tier resources and safely cleaned up.
 
 ## 💬 Final Thought
 
-> “Always learning. Always building. Always improving.”
+> “I am Always learning. Always building. Always improving.”
 
 This lab wasn’t easy — but that’s what made it valuable.  
 Every error taught me more than a course ever could.  
