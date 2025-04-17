@@ -6,7 +6,31 @@
 
 ---
 
-## 🌟 Why I Built This Lab
+## 📚 Table of Contents
+
+- [📁 Featured Labs](#-featured-labs)
+- [🛠️ Skills Demonstrated](#️-skills-demonstrated)
+- [🚀 Next Steps](#-next-steps)
+- [🔐 Security Note](#-security-note)
+- [📸 Screenshot Galleries (inside subfolders)](#-screenshot-galleries-inside-subfolders)
+
+---
+
+## 📁 Featured Labs
+
+### 🔹 [AWS CLI Practice Lab](./AWS-CLI-Practice/S3-Bucket-Permission-Lab)
+Hands-on AWS CLI project including:
+- S3 bucket creation
+- IAM configuration
+- Public access policy using JSON
+- Troubleshooting AccessDenied issues
+- Screenshots & full documentation included
+
+➡️ [View the full lab README](./AWS-CLI-Practice/S3-Bucket-Permission-Lab/README.md)
+
+---
+
+## 🧠 Why I Built This Lab
 
 As I transition into the tech industry, I’m committed to not just collecting certificates — but **building real skills** through hands-on labs.
 
@@ -29,7 +53,7 @@ This lab was born out of my desire to go beyond tutorials and challenge myself t
 - Verified my IAM credentials using CLI  
 - Created a clean folder system on my desktop with organized assets
 
-### ⚠️ What I Struggled With:
+### 🚧 What I Struggled With:
 - I couldn’t remember my MFA code and had to go through recovery steps  
 - GitHub Desktop was still linked to my old account — had to unlink and sign in with `Margaret-Johnson-ai`  
 - CLI didn’t recognize paths inside OneDrive, so I had to reorganize all files to my local desktop
@@ -49,7 +73,7 @@ This lab was born out of my desire to go beyond tutorials and challenge myself t
 - Deleted the bucket and verified cleanup using CLI  
 - Captured all screenshots and organized them in GitHub
 
-### ⚠️ What I Struggled With:
+### 🚧 What I Struggled With:
 - Got an `AccessDenied` error in the browser even after applying the bucket policy  
 - Learned that AWS S3 also blocks public access by default — not just at the policy level  
 - Had to carefully structure my local folders so I could upload to GitHub in the correct format  
@@ -75,38 +99,27 @@ This lab was born out of my desire to go beyond tutorials and challenge myself t
 
 ---
 
-## 🧬 What I Learned
+## 🛠️ Skills Demonstrated
 
-- How to use AWS CLI to configure, build, and clean up cloud resources  
-- How to apply JSON-based bucket policies from the command line  
-- Why it's critical to unblock public access in the AWS console  
-- How to manage access credentials, folders, and version control  
-- How to explain what I built in both human and technical language
-
----
-
-## 🧹 Cleanup Confirmation
-
-All AWS resources were deleted at the end of this lab:  
-- File removed via AWS Console  
-- Bucket deleted using `aws s3 rb`  
-- Verified using `aws s3 ls`
-
-📸 Screenshot proof included in `screenshots/`
+- AWS CLI (v2) configuration and usage
+- S3 bucket management via command line
+- JSON-based policy writing for public access
+- IAM user creation and troubleshooting MFA issues
+- CLI-based resource cleanup to avoid billing
+- GitHub project structure and documentation
+- Screenshot documentation and markdown formatting
 
 ---
 
-## 📜 Project Folder Structure
+## 🚀 Next Steps
 
-```
-AWS-CLI-Practice/
-└── S3-Bucket-Permission-Lab/
-    ├── README.md
-    ├── aws_commands.md
-    ├── test.txt
-    ├── bucket_policy.json
-    └── screenshots/
-```
+Here’s what I plan to build or explore next:
+
+- AWS Lambda & Serverless Labs
+- Deploy an EC2 instance and connect via SSH
+- CloudFormation or Terraform project (IaC)
+- CI/CD pipeline using AWS CodePipeline
+- Begin prep for AWS Certified Cloud Practitioner exam
 
 ---
 
@@ -117,13 +130,21 @@ This lab was created using Free Tier resources and safely cleaned up.
 
 ---
 
+## 📸 Screenshot Galleries (inside subfolders)
+
+Screenshots for this lab are organized in:  
+➡️ `AWS-CLI-Practice/S3-Bucket-Permission-Lab/screenshots/`
+
+Each step is documented for proof of work and learning clarity.
+
+---
+
 ## 💬 Final Thought
 
-> “I am Always learning. Always building. Always improving.”
+> “Always learning. Always building. Always improving.”
 
 This lab wasn’t easy — but that’s what made it valuable.  
 Every error taught me more than a course ever could.  
 I didn’t just complete a project — I proved to myself I can build, break, and fix in AWS.
 
-👩🏾‍💻 *– Margaret Johnson*
-```
+👩🏽‍💻 *– Margaret Johnson*
