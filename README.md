@@ -111,15 +111,15 @@ This lab was born out of my desire to go beyond tutorials and challenge myself t
 
 ---
 
-## 🚀 Next Steps
+## 🚀 Next Steps (Strategic Cloud Growth Plan)
 
-Here’s what I plan to build or explore next:
-
-- AWS Lambda & Serverless Labs
-- Deploy an EC2 instance and connect via SSH
-- CloudFormation or Terraform project (IaC)
-- CI/CD pipeline using AWS CodePipeline
-- Begin prep for AWS Certified Cloud Practitioner exam
+- Build a serverless ticketing system using **AWS Lambda, DynamoDB, and API Gateway**
+- Deploy a Linux-based web app on EC2 with custom security groups and **automated backups**
+- Design an Infrastructure-as-Code project using **CloudFormation or Terraform** — including rollback testing
+- Set up a CI/CD pipeline with **GitHub Actions + AWS CodePipeline** to automate deployment
+- Explore **AWS IAM best practices for enterprise environments** (MFA, SCPs, cross-account roles)
+- Build a “Cloud Cost Optimization” lab to showcase **budget-aware architecture**
+- Begin prep for **AWS Certified Cloud Practitioner** to back up hands-on work with credentials
 
 ---
 
@@ -148,3 +148,4 @@ Every error taught me more than a course ever could.
 I didn’t just complete a project — I proved to myself I can build, break, and fix in AWS.
 
 👩🏽‍💻 *– Margaret Johnson*
+
