@@ -1,4 +1,9 @@
-# AWS CLI Lab: S3 Bucket Creation, IAM Security & Real-World Troubleshooting
+# 🛠️ AWS CLI Lab: S3 Bucket Creation, IAM Security & Real-World Troubleshooting
+
+![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Tools Used](https://img.shields.io/badge/Tools-AWS%20CLI%20%7C%20S3%20%7C%20IAM-blue)
+![Last Update](https://img.shields.io/github/last-commit/Margaret-Johnson-ai/aws-cli-lab)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 🔹 **Author:** Margaret Johnson  
 🔹 **Project Type:** Hands-On AWS Lab  
