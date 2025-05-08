@@ -12,7 +12,7 @@ Welcome to my AWS Cloud Labs portfolio! This repository showcases completed and 
 | Project | Description | Status | Link |
 |--------|-------------|--------|------|
 | **AWS CLI Practice** | IAM user setup, access key creation, and CLI authentication | ✅ Completed | [AWS-CLI-Practice](./AWS-CLI-Practice) |
-| **IAM Labs** | Hands-on IAM lab: MFA, groups, users, policies, and trust relationships | ✅ Completed | [IAM-Labs](./IAM-Labs) |
+| **IAM Labs** | Planned IAM-focused lab covering users, groups, policies, and MFA | 🟡 In Progress | [IAM-Labs](./IAM-Labs) |
 | **Cloud Architecture Diagrams** | Visual cloud designs for reference and project planning | 🟡 In Progress | [Cloud-Architecture-Diagrams](./Cloud-Architecture-Diagrams) |
 | **EC2 Linux Web App with Backups** | Secure Linux-based web app on EC2 w/ snapshots & automated backups | 🟡 Enhanced | [Project-1-Simple-EC2-Setup](./Project-1-Simple-EC2-Setup) |
 | **Screenshots** | Visual walkthroughs and evidence of lab completions | 🟡 Optional | [Screenshots](./Screenshots) |
